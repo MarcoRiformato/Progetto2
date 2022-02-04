@@ -1,0 +1,31 @@
+#main_banner{
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding-top: 30px;
+    font-weight: bold;
+    padding: 100px;
+    max-width: 100%;
+    height: auto;
+  }
+
+  body{
+    font-family: 'Fira Sans', sans-serif;
+  }
+
+  #cta_mid{
+      background-color: #0C0633;
+  }
+
+  #notebook_bottom{
+    background-image: url("../images/notebook.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding-top: 50px;
+    font-weight: bold;
+    padding: 100px;
+    max-width: 70%;
+    height: auto;
+  }
